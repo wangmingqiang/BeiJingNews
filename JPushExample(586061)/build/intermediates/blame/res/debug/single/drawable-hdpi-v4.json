@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\Android\\workspace\\BeiJingNews1020\\JPushExample(586061)\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\tiledstripes.xml",
+        "source": "D:\\Android\\workspace\\BeiJingNews1020\\JPushExample(586061)\\res\\drawable-hdpi\\tiledstripes.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\BeiJingNews1020\\JPushExample(586061)\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\corners_bg.xml",
+        "source": "D:\\Android\\workspace\\BeiJingNews1020\\JPushExample(586061)\\res\\drawable-hdpi\\corners_bg.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\BeiJingNews1020\\JPushExample(586061)\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\richpush_btn_selector.xml",
+        "source": "D:\\Android\\workspace\\BeiJingNews1020\\JPushExample(586061)\\res\\drawable-hdpi\\richpush_btn_selector.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\BeiJingNews1020\\JPushExample(586061)\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\richpush_progressbar.xml",
+        "source": "D:\\Android\\workspace\\BeiJingNews1020\\JPushExample(586061)\\res\\drawable-hdpi\\richpush_progressbar.xml"
+    }
+]

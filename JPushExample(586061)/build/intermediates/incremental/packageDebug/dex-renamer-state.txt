@@ -1,0 +1,4 @@
+#Fri Feb 10 21:54:12 CST 2017
+base.0=D\:\\Android\\workspace\\BeiJingNews1020\\JPushExample(586061)\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
+renamed.0=classes.dex
+file.0=D\:\\Android\\workspace\\BeiJingNews1020\\JPushExample(586061)\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex

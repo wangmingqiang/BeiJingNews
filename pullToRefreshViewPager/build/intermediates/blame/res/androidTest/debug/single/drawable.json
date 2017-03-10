@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\Android\\workspace\\BeiJingNews1020\\pullToRefreshViewPager\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\indicator_bg_top.xml",
+        "source": "D:\\Android\\workspace\\BeiJingNews1020\\pullToRefreshViewPager\\build\\intermediates\\exploded-aar\\BeiJingNews1020\\PullToRefresh_library\\unspecified\\res\\drawable\\indicator_bg_top.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\BeiJingNews1020\\pullToRefreshViewPager\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\indicator_bg_bottom.xml",
+        "source": "D:\\Android\\workspace\\BeiJingNews1020\\pullToRefreshViewPager\\build\\intermediates\\exploded-aar\\BeiJingNews1020\\PullToRefresh_library\\unspecified\\res\\drawable\\indicator_bg_bottom.xml"
+    }
+]
